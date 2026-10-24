@@ -1,0 +1,56 @@
+{
+  "brand": [
+    "Ambassador",
+    "Ashok Leyland",
+    "Audi",
+    "BMW",
+    "Chevrolet",
+    "Daewoo",
+    "Datsun",
+    "Fiat",
+    "Force",
+    "Ford",
+    "Honda",
+    "Hyundai",
+    "Isuzu",
+    "Jaguar",
+    "Jeep",
+    "Kia",
+    "Land Rover",
+    "Lexus",
+    "MG",
+    "Mahindra",
+    "Maruti",
+    "Mercedes-Benz",
+    "Mitsubishi",
+    "Nissan",
+    "Opel",
+    "Renault",
+    "Skoda",
+    "Tata",
+    "Toyota",
+    "Volkswagen",
+    "Volvo"
+  ],
+  "fuel": [
+    "CNG",
+    "Diesel",
+    "LPG",
+    "Petrol"
+  ],
+  "seller_type": [
+    "Dealer",
+    "Individual",
+    "Trustmark Dealer"
+  ],
+  "transmission": [
+    "Automatic",
+    "Manual"
+  ],
+  "owner": [
+    "First Owner",
+    "Fourth & Above Owner",
+    "Second Owner",
+    "Third Owner"
+  ]
+}
